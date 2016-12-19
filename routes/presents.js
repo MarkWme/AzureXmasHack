@@ -17,6 +17,16 @@ router.get('/', function(req, res){
     });
 });
 
+router.get('/:id', function(req, res){
+    //
+    // Retrieve all present lists
+    //
+    presents.findById(req.params.id, function(err, presents){
+        res.json(presents);
+    });
+});
+
+
 router.post('/', function(req, res) {
 presents.add(req.body, function(err, result) {
 		if (err)
