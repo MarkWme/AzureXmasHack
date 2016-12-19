@@ -1,0 +1,10 @@
+{
+    "name": "Boaty McBoatface",
+    "requesttext": "Dear Santa, I've been good. This year I want, 1 a cat, 2 an xbox, 3 a basketball",
+    "status": "nice",
+    "presents": [
+      "a cat",
+      "an xbox",
+      "a basketball"
+    ]
+}
