@@ -2,7 +2,7 @@
   "name": "naughtyapi",
   "version": "1.0.0",
   "description": "Azure Christmas Hackathon 2016",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

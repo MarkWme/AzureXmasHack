@@ -1,4 +1,0 @@
-{"category":"database","type":"success","level":"info","message":"Connected to database: https://santaspresentdocdb.documents.azure.com:443","timestamp":"2016-12-19T14:39:11.081Z"}
-{"category":"server","type":"success","level":"info","message":"Express server started on http://localhost:3000","timestamp":"2016-12-19T14:39:11.179Z"}
-2016-12-19T14:40:04.756Z - info: Connected to database: https://santaspresentdocdb.documents.azure.com:443 category=database, type=success
-2016-12-19T14:40:04.852Z - info: Express server started on http://localhost:3000 category=server, type=success
