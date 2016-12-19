@@ -31,6 +31,7 @@ client.createDocument(collectionUrl, document, function(err, document) {
 });
 */
 var logger = require('./lib/logger.js'); 
+logger.info('Starting: version 0.1');
 var db = require('./lib/db.js');
 //
 // Establish database connection
